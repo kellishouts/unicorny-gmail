@@ -1,3 +1,6 @@
-# Create a Chrome extension to modify a website's HTML or CSS
+# Unicorny Gmail
 
-See post: https://blog.lateral.io/2016/04/create-chrome-extension-modify-websites-html-css/
+Turned my CSS that hacks Gmail, into a Standalone Chrome Extension.
+
+See Blog Post: https://medium.com/@airshipcms/gmail-ux-sucks-so-i-fixed-it-for-my-own-sanity-b6f33898ebe3
+See Gist: https://gist.github.com/kellishouts/e733874f7510934c4def87adf221016d
