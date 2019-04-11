@@ -62,13 +62,13 @@
 
 /* Tab: Important Icon */
 .aAy.aIf-aLe .aKp.aIf-aLf{
-  background-image: url('https://res.cloudinary.com/airship/image/upload/v1553030473/media/email_t4wvmi.svg');
+  background-image: url('/images/email.svg');
   background-size:18px;
 }
 
 /* Tab: Important Icon Active */
 .aAy.aIf-aLe.J-KU-KO  .aKp.aIf-aLf{
-  background-image: url('https://res.cloudinary.com/airship/image/upload/v1553032741/media/email-teal_ip8ci6.svg');
+  background-image: url('/images/email-teal.svg');
   background-size:18px;
 }
 
@@ -79,13 +79,13 @@
 
 /* Tab: Fun & Events Icon */
 .aAy.aJi-aLe .aKp.aJi-aLf{
-  background-image: url('https://res.cloudinary.com/airship/image/upload/v1553031289/media/music_maycua.svg');
+  background-image: url('/images/music.svg');
   background-size:18px;
 }
 
 /* Tab: Fun & Events Icon Active */
 .aAy.aJi-aLe.J-KU-KO .aKp.aJi-aLf{
-  background-image: url('https://res.cloudinary.com/airship/image/upload/v1553032741/media/music-teal_lho3c2.svg');
+  background-image: url('/images/music-teal.svg');
   background-size:18px;
 }
 
@@ -96,13 +96,13 @@
 
 /* Tab: Work & Receipts Icon */
 .aAy.aH2-aLe .aKp.aH2-aLf{
-  background-image: url('https://res.cloudinary.com/airship/image/upload/v1553033425/media/suitcase_yrfiac.svg');
+  background-image: url('/images/suitcase.svg');
   background-size:22px;
 }
 
 /* Tab: Work & Receipts Icon Active */
 .aAy.aH2-aLe.J-KU-KO .aKp.aH2-aLf{
-  background-image: url('https://res.cloudinary.com/airship/image/upload/v1553033425/media/suitcase-teal_lf8pmp.svg');
+  background-image: url('/images/suitcase-teal.svg');
   background-size:22px;
 }
 
@@ -113,13 +113,13 @@
 
 /* Tab: Github Icon */
 .aAy.aHE-aLe .aKp.aHE-aLf{
-  background-image: url('https://res.cloudinary.com/airship/image/upload/v1553033424/media/github_efugnj.svg');
+  background-image: url('/images/github.svg');
   background-size:20px;
 }
 
 /* Tab: Github Icon Active */
 .aAy.aHE-aLe.J-KU-KO .aKp.aHE-aLf{
-  background-image: url('https://res.cloudinary.com/airship/image/upload/v1553033424/media/github-teal_mk16yp.svg');
+  background-image: url('/images/github-teal.svg');
   background-size:20px;
 }
 
@@ -155,13 +155,13 @@
 
 /* Change Inbox icon to Envelope Icon */
 .aHS-bnt .qj {
-    background-image: url('https://res.cloudinary.com/airship/image/upload/v1553030473/media/email_t4wvmi.svg');
+    background-image: url('/images/email.svg');
     background-size: 18px;
 }
 
 .nZ>.aHS-bnt .qj, 
 .aHS-bnt .qj::before{
-  background-image: url('https://res.cloudinary.com/airship/image/upload/v1553030473/media/email_t4wvmi.svg');
+  background-image: url('/images/email.svg');
     background-size: 18px;
 }
 
@@ -204,7 +204,7 @@
 
 /*--- #11. Bring back the delightful cleared inbox graphic ---*/
 .DVI7hd .aRu{
-  background-image: url('https://res.cloudinary.com/airship/image/upload/f_auto/v1553218540/media/airship-unicorny_gpgyga.png');
+  background-image: url('/images/airship-unicorny.png');
   background-size: 240px auto;
   background-repeat: no-repeat;
   background-position: center center;
