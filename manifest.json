@@ -3,8 +3,7 @@
 
   "name": "Unicorny Gmail",
   "version": "0.1.0",
-  "description": "Unicorny Gmail, forked from example CSS Chrome Extention from lateral/chrome-extension-blogpost. :)",
-
+  "description": "Unicorny Gmail. Gmail Simplified with minimalist, clean UX, inspired by Google Inbox. Plus a touch of Unicorny. :)",
   "content_scripts": [{
     "css": ["styles.css"],
     "matches": ["https://mail.google.com/*"]

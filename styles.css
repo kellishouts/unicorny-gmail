@@ -155,24 +155,24 @@
 
 /* Change Inbox icon to Envelope Icon */
 .aHS-bnt .qj {
-    background-image: url('https://res.cloudinary.com/airship/image/upload/v1553030473/media/email_t4wvmi.svg');
-    background-size: 18px;
+    background-image: url('https://res.cloudinary.com/airship/image/upload/v1553030473/media/email_t4wvmi.svg') !important;
+    background-size: 18px !important;
 }
 
 .nZ>.aHS-bnt .qj, 
 .aHS-bnt .qj::before{
-  background-image: url('https://res.cloudinary.com/airship/image/upload/v1553030473/media/email_t4wvmi.svg');
-    background-size: 18px;
+  background-image: url('https://res.cloudinary.com/airship/image/upload/v1553030473/media/email_t4wvmi.svg')  !important;
+  background-size: 18px !important;
 }
 
 /* Set Grey Sidebar Highlight */
 .byl .TO.nZ>.aHS-bnt .n0, 
 .nZ>.aHS-bnt .bsU{
-  color: #333333;
+  color: #333333 !important;
 }
 
 .wT>.n3 .byl:first-child .aim:first-child .nZ {
-  background-color: #e8eaed;
+  background-color: #e8eaed !important;
 }
 
 /* Hide Sidebar Label Icons */
@@ -236,8 +236,9 @@
 }
 
 /* Hide Gmail Logo */
-.gb_ja:not(.gb_ka) .gb_qc .gb_Rb{
-  display: none;
+.gb_ja:not(.gb_ka) .gb_qc .gb_Rb,
+.a.gb_Vd.gb_Tb.gb_ce{
+  display: none !important;
 }
 
 /* Hides Gmail Footer */
