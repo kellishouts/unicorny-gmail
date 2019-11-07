@@ -7,3 +7,13 @@ See Gist: https://gist.github.com/kellishouts/e733874f7510934c4def87adf221016d
 
 Not a real dev. ^__^ Haven't made a Chrome Extension before. I followed this Blog Post. :)
 https://blog.lateral.io/2016/04/create-chrome-extension-modify-websites-html-css/
+
+# Create Google Chrome Extension
+
+Increase version number in the manifest.
+Zip this directory.
+Go to https://chrome.google.com/webstore/developer/dashboard (Log in as developer account [PF]).
+Edit & Publish.
+
+# Changelog
+

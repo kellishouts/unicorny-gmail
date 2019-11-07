@@ -145,6 +145,42 @@
   display: none;
 }
 
+/*--- #5.1 Nov 5, 2019 Google updated & ads are showing again. ---*/
+.aDP .ae4.aDM{
+  /* border: 1px solid pink; */
+}
+
+.aDP .ae4.aDM + .ae4.aDM{
+  /* border: 1px solid orange; */
+}
+
+.aDP .ae4.aDM + .ae4.aDM + .ae4.aDM{
+  /* border: 1px solid yellow; */
+}
+
+.aDP .ae4.aDM + .ae4.aDM + .ae4.aDM + .ae4.aDM{
+  /* border: 1px solid green; */
+}
+
+
+.aDP .ae4.aDM + .ae4.aDM .Cp{
+  /* border: 2px solid red; */
+  display: none;
+}
+
+.aDP .ae4.aDM + .ae4.aDM .Cp + div + .Cp{
+  /* border: none; */
+  display: block;
+}
+
+.aDP .ae4.aDM + .ae4.aDM + .ae4.aDM .Cp{
+  /* border: none; */
+}
+
+.aDP .ae4.aDM + .ae4.aDM + .ae4.aDM + .ae4.aDM .Cp{
+  /* border: none; */
+}
+
 /*--- #6. Even MORE line-height for Emails ---*/
 .Cp tr{
     padding-top: 18px;
