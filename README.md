@@ -17,9 +17,16 @@ This is my first Chrome Extension. I followed [this](https://blog.lateral.io/201
 
 # Changelog
 
+## Version 0.2.2
+- hides ads again
+- leaving Gmail logo
+- adds unicorn to empty state for new split screen mode
+- removed force hide Google hangouts, because you can hide it in Gmail Settings now
+
 ## Version 0.2.1
 - hides ads again
 - Gmail logo is showing again
+
 
 # To Do / Wishlist
 - icon and styles for Social tab

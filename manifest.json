@@ -2,7 +2,7 @@
   "manifest_version": 2,
 
   "name": "Unicorny Gmail",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Unicorny Gmail. Gmail Simplified with minimalist, clean UX, inspired by Google Inbox. Plus a touch of Unicorny. :)",
   "icons": { 
     "16": "unicorny-gmail-16.png",
@@ -10,6 +10,6 @@
    "128": "unicorny-gmail-128.png" },
   "content_scripts": [{
     "css": ["styles.css"],
-    "matches": ["https://mail.google.com/*"]
+    "matches": ["*://mail.google.com/*"]
   }]
 }

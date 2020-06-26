@@ -125,20 +125,7 @@
 
 /*--- #4. Get rid of Hangouts ---*/
 
-/* Hides Line & Shadow */
-.aeO{
-  display: none;
-}
 
-.aji::after{
-  display:none;
-}
-
-/* Hides Hangouts */
-.akc.aZ6{
-  display: none;
-  height: auto;
-}
 
 /*--- #5. Get rid of Ads ---*/
 .BltHke.nH.oy8Mbf.aE3 .aKB{
@@ -162,9 +149,14 @@
   /* border: 1px solid green; */
 }
 
-
+/*--- June 20, 2020 Google updated & it causes this whole block to be hidden if targeted this way. 
 .aDP .ae4.aDM + .ae4.aDM .Cp{
-  /* border: 2px solid red; */
+  display: none;
+}
+THIS NO LONGER WORKS ---*/
+
+/*--- #5.2 June 20, 2020 ---*/
+.aDP .ae4.aDM + .ae4.aDM .Cp + .Cp{
   display: none;
 }
 
@@ -280,4 +272,17 @@
 /* Hides Gmail Footer */
 .l2.pfiaof {
   display: none;
+}
+
+/*--- #13. Unicorn empty state for split screen view. ---*/
+.apb, .apO{
+  display: none;
+}
+
+.apa{
+  background-image: url('https://res.cloudinary.com/airship/image/upload/f_auto/v1553218540/media/airship-unicorny_gpgyga.png');
+  background-size: 275px auto;
+  background-repeat: no-repeat;
+  background-position: center 80px;
+  height: 100%;
 }
